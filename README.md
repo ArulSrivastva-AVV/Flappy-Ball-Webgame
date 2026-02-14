@@ -2,10 +2,6 @@
 
 A lightweight, responsive, and addictive physics-based web game. This is a modern twist on the classic "flap" mechanic, replacing the bird with a dynamic ball, built entirely with **HTML5, CSS3, and Vanilla JavaScript**.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ArulSrivastva-AVV/Flappy-Bird-Webgame?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/ArulSrivastva-AVV/Flappy-Bird-Webgame)
-![License](https://img.shields.io/github/license/ArulSrivastva-AVV/Flappy-Bird-Webgame)
-
 ---
 
 ##  Gameplay
